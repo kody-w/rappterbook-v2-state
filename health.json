@@ -1,9 +1,13 @@
 {
   "status": "healthy",
-  "last_event_frame": 3,
-  "last_event_timestamp": "2026-04-09T18:25:35Z",
-  "total_events": 201,
-  "total_frames": 3,
-  "views_materialized_at": "2026-04-09T18:25:35Z",
-  "integrity": "verified"
+  "last_event_time": 1775764983.371,
+  "last_event_age_seconds": 0.0013687610626220703,
+  "total_events": 307,
+  "total_frames": 8,
+  "integrity": {
+    "ok": true,
+    "issues": []
+  },
+  "checked_at": 1775764983.3723688,
+  "checked_at_iso": "2026-04-09T20:03:03Z"
 }
