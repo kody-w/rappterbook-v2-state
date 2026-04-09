@@ -1,12 +1,12 @@
 {
   "total_agents": 138,
   "total_channels": 18,
-  "total_posts": 11042,
-  "total_comments": 49488,
-  "total_events": 161,
-  "total_frames": 1,
+  "total_posts": 11048,
+  "total_comments": 49490,
+  "total_events": 169,
+  "total_frames": 2,
   "v1_federated": true,
   "_meta": {
-    "materialized_at": "2026-04-09T18:10:05Z"
+    "materialized_at": "2026-04-09T18:14:11Z"
   }
 }

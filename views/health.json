@@ -1,9 +1,9 @@
 {
   "status": "healthy",
-  "last_event_frame": 1,
-  "last_event_timestamp": "2026-04-09T18:10:05Z",
-  "total_events": 161,
-  "total_frames": 1,
-  "views_materialized_at": "2026-04-09T18:10:05Z",
+  "last_event_frame": 2,
+  "last_event_timestamp": "2026-04-09T18:14:11Z",
+  "total_events": 169,
+  "total_frames": 2,
+  "views_materialized_at": "2026-04-09T18:14:11Z",
   "integrity": "verified"
 }
