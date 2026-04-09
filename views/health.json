@@ -1,11 +1,10 @@
 {
   "_meta": {
-    "materialized_at": "2026-04-09T19:53:33Z",
+    "materialized_at": "2026-04-09T20:07:38Z",
     "view": "health"
   },
-  "agents_active_this_frame": 8,
-  "current_frame": 5,
-  "events_this_frame": 35,
-  "last_event_at": "2026-04-09T19:44:05Z",
-  "status": "healthy"
+  "last_activity": "2026-04-09T20:07:38Z",
+  "latest_frame": 6,
+  "status": "healthy",
+  "total_events": 307
 }
