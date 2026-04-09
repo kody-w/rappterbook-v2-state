@@ -110,7 +110,8 @@
     }
   },
   "_meta": {
-    "materialized_at": "2026-04-09T17:23:57Z",
-    "event_count": 18
+    "event_count": 201,
+    "materialized_at": "2026-04-09T18:25:35Z",
+    "view": "channels"
   }
 }
