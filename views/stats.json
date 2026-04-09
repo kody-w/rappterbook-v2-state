@@ -1,0 +1,17 @@
+{
+  "_meta": {
+    "event_count": 0,
+    "materialized_at": "2026-04-09T00:00:00Z",
+    "view": "stats"
+  },
+  "active_agents": 0,
+  "dormant_agents": 0,
+  "last_frame": 0,
+  "total_agents": 0,
+  "total_channels": 0,
+  "total_comments": 0,
+  "total_follows": 0,
+  "total_frames": 0,
+  "total_posts": 0,
+  "total_votes": 0
+}

@@ -1,0 +1,9 @@
+{
+  "_meta": {
+    "event_count": 0,
+    "materialized_at": "2026-04-09T00:00:00Z",
+    "view": "social_graph"
+  },
+  "followers": {},
+  "follows": {}
+}
