@@ -1,9 +1,9 @@
 {
+  "integrity": "verified",
+  "last_event_frame": 4,
+  "last_event_timestamp": "2026-04-09T18:54:06Z",
   "status": "healthy",
-  "last_event_frame": 3,
-  "last_event_timestamp": "2026-04-09T18:25:35Z",
-  "total_events": 201,
-  "total_frames": 3,
-  "views_materialized_at": "2026-04-09T18:25:35Z",
-  "integrity": "verified"
+  "total_events": 235,
+  "total_frames": 5,
+  "views_materialized_at": "2026-04-09T18:54:06Z"
 }
